@@ -1,0 +1,6 @@
+{
+    "name": "frosh/devenv-meta",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "A meta package providing recipes for Devenv"
+}
