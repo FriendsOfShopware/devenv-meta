@@ -2,5 +2,8 @@
     "name": "frosh/devenv-meta",
     "type": "metapackage",
     "license": "MIT",
-    "description": "A meta package providing recipes for Devenv"
+    "description": "A meta package providing recipes for Devenv",
+    "require": {
+        "shopware/core": "~6.5.0"
+    }
 }
