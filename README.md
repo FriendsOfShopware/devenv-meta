@@ -12,4 +12,4 @@ See Shopware Blog Post for example of Symfony recipes https://www.shopware.com/e
 
 ## Files
 
-You can find the actual files [here](https://github.com/shopware/recipes/tree/main/frosh/devenv-meta/6.4)
+You can find the actual files [here](https://github.com/shopware/recipes/tree/main/frosh/devenv-meta)
