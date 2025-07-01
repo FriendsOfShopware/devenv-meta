@@ -4,6 +4,6 @@
     "license": "MIT",
     "description": "A meta package providing recipes for Devenv",
     "require": {
-        "shopware/core": "~6.6.0"
+        "shopware/core": "~6.6.0 || ~6.7.0"
     }
 }
